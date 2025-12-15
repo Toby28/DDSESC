@@ -7,4 +7,24 @@ Please download the ESD(Emotional Speech Database) dataset from [https://hltsing
 ## Pretrained Speaker Embedding Models
 This project supports three types of speaker embeddings: d-vector, r-vector, and ECAPA-TDNN. For r-vector and ECAPA-TDNN, you can download pretrained models from the [SpeechBrain](https://speechbrain.github.io/) toolkit. For d-vector, please use the pretrained model provided in the official repository from [https://github.com/yistLin/dvector](https://github.com/yistLin/dvector).
 
-Coming Soon
+## DTG-VAE Structure
+![Demo](img/table2.png)
+
+## DTG-VAE Performance
+![Demo](img/table1.png)
+
+![Demo](img/fig1.png)
+![Demo](img/fig2.png)
+
+## Citation
+If you use this project in academic work, please cite:
+
+<div style="background-color:#f6f8fa; padding:16px; border-left:4px solid #9ca3af;">
+<strong>Important</strong><br>
+@article{lin2025emotional,
+  title={Emotional Styles Hide in Deep Speaker Embeddings: Disentangle Deep Speaker Embeddings for Speaker Clustering},
+  author={Lin, Chaohao and Zheng, Xu and Wu, Kaida and Xiang, Peihao and Bai, Ou},
+  journal={arXiv preprint arXiv:2509.23358},
+  year={2025}
+}
+</div>
