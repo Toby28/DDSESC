@@ -9,13 +9,13 @@ This project supports three types of speaker embeddings: d-vector, r-vector, and
 
 ## DTG-VAE Structure
 <p align="center">
-  <img src="img/Table2.png" width="600">
+  <img src="img/Table2.png" width="1000">
 </p>
 <p align="center">
-  <img src="img/Table3.png" width="600">
+  <img src="img/Table3.png" width="1000">
 </p>
-![Demo](img/Table2.png)
-![Demo](img/Table3.png)
+
+
 ## DTG-VAE Performance
 ![Demo](img/Table1.png)
 
